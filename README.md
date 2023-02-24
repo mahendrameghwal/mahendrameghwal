@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahendrameghwal
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning for web development
+- 🌱 I’m currently learning for more about web development
 - 📫 How to reach me Check here 👇👇
 https://www.linkedin.com/in/mahendrameghwal
 
