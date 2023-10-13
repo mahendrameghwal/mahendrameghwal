@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahendrameghwal
+- 👋 Hi, I’m @mahendrakumar
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning for more about web development
 - 📫 How to reach me Check here 👇👇
