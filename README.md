@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mahendrakumar
-- 👀 I’m interested in Web development
+- 👋 Hi, I’m Mahendra
+- 👀 I’m interested in full-stack Web development
 - 🌱 I’m currently learning for more about web development
 - 📫 How to reach me Check here 👇👇
 https://www.linkedin.com/in/mahendrameghwal
