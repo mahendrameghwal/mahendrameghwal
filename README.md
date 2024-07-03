@@ -62,19 +62,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendrameghwal&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahendrameghwal" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahendrameghwal&show_icons=true&locale=en&theme=radical" alt="mahendrameghwal" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendrameghwal&theme=radical" alt="mahendrameghwal" />
-</p>
 
 ## 🌐 Connect with Me
 
