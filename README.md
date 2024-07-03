@@ -1,19 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mahendra </h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Always+learning+new+things;Passionate+about+coding;Creating+innovative+solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahendrameghwal&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrameghwal" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahendrameghwal&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="mahendrameghwal" />
-  </a>
-</p>
 
 
 
@@ -100,6 +84,4 @@
   </a>
 </p>
 
-## 🎯 Current Focus
 
-I'm currently focusing on deepening my understanding of modern web development frameworks and exploring best practices for creating scalable and efficient web applications. I'm always excited to learn about new technologies and methodologies in the ever-evolving world of web development.
