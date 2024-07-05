@@ -1,7 +1,7 @@
 
 
 
-## 🛠️ Languages and Tools
+## 🛠️ Tools and Tech stack
 
 
 
